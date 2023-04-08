@@ -1,7 +1,7 @@
 ## Instructions to Run the project
 
-npm i 
-npm run dev
+* Step 1: npm i 
+* Step 2: npm run dev
 
 ## URLs for testing
 
